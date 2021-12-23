@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java_ae9000ab"
+        },
+        {
+            "type": "java",
             "name": "Launch test_1",
             "request": "launch",
             "mainClass": "test_1",
