@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch test_1",
+            "request": "launch",
+            "mainClass": "test_1",
+            "projectName": "Java_ae9000ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch test_1",
+            "request": "launch",
+            "mainClass": "test_1.test_1",
+            "projectName": "Java_ae9000ab"
+        },
+        {
+            "name": "(lldb) Starten",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "Programmnamen eingeben, z. B. \"${workspaceFolder}/a.out\"",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "lldb"
+        }
+    ]
+}
