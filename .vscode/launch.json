@@ -2,30 +2,16 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch Demo01Const",
+            "name": "Launch Demo01DataType",
             "request": "launch",
-            "mainClass": "Demo01Const",
+            "mainClass": "Demo01DataType",
             "projectName": "Java_ae9000ab"
         },
         {
             "type": "java",
-            "name": "Launch HelloWorld",
+            "name": "Launch Demo02Variable",
             "request": "launch",
-            "mainClass": "HelloWorld",
-            "projectName": "Java_ae9000ab"
-        },
-        {
-            "type": "java",
-            "name": "Launch test_1",
-            "request": "launch",
-            "mainClass": "test_1",
-            "projectName": "Java_ae9000ab"
-        },
-        {
-            "type": "java",
-            "name": "Launch test_1",
-            "request": "launch",
-            "mainClass": "test_1.test_1",
+            "mainClass": "Demo02Variable",
             "projectName": "Java_ae9000ab"
         },
         {
