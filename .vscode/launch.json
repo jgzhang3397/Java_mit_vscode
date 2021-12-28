@@ -2,16 +2,16 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch Demo12Notice",
+            "name": "Launch Demo04Uebung",
             "request": "launch",
-            "mainClass": "Demo12Notice",
+            "mainClass": "Demo04Uebung",
             "projectName": "Java_ae9000ab"
         },
         {
             "type": "java",
-            "name": "Launch Demo11Method",
+            "name": "Launch Demo03DoWhileLoop",
             "request": "launch",
-            "mainClass": "Demo11Method",
+            "mainClass": "Demo03DoWhileLoop",
             "projectName": "Java_ae9000ab"
         },
         {
